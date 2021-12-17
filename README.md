@@ -1,2 +1,3 @@
 # Sensor-Accelerometer
-Tugas Sensor Accelerometer
+Tugas Pemograman Aplikasi Mobile
+Sensor Accelerometer
